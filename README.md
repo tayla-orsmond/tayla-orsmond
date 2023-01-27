@@ -10,8 +10,6 @@
 
 ---
 
-<span style="font-size: 110%">
-
 ```typescript
 
 import { Skills } from './exp';
@@ -73,8 +71,6 @@ export class Tayla🙂 extends Skills {
 }
 
 ```
-
-</span>
 
 <!-- ---
 
