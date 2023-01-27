@@ -10,7 +10,7 @@
 
 ---
 
-```typescript
+```javascript
 
 import { Skills } from './exp';
 
@@ -39,8 +39,14 @@ export class Tayla🙂 extends Skills {
         I enjoy picking up new skills and bringing visions to life. 
         I learn quickly and am always looking for new opportunities to grow 🌱.`;
     }
-    
-    mySkills('👩‍💻') {
+
+```
+
+## My Skills 🕹️
+
+```javascript
+
+ mySkills('👩‍💻') {
         let languages = ['JavaScript', 'HTML5', 'CSS3', 'SCSS', 'PHP', 'C++', 'Java'];
 
         let frameworks = ['React', 'Vue', 'Node', 'Express', 'Bootstrap', 'jQuery'];
@@ -68,15 +74,11 @@ export class Tayla🙂 extends Skills {
         this.databases.push('Firebase');
         this.tools.push(improve('Git'));
     }
+
 }
 
 ```
-
-<!-- ---
-
-## My Skills 🕹️
-
-<div style="display:flex; flex-wrap:wrap; font-size: 110%;">
+<!-- <div style="display:flex; flex-wrap:wrap; font-size: 110%;">
 
 Languages:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) 
@@ -110,8 +112,6 @@ Tools:
 ![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=for-the-badge&logo=adobe-illustrator)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-black?style=for-the-badge&logo=adobe-premiere-pro)
 </div> -->
-
----
 
 ## My Stats 🔥
 
