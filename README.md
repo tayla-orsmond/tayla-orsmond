@@ -10,6 +10,8 @@
 
 ---
 
+## About Me 🙃
+
 ```javascript
 
 import { Skills } from './exp';
@@ -46,7 +48,7 @@ export class Tayla🙂 extends Skills {
 
 ```javascript
 
- mySkills('👩‍💻') {
+    mySkills('👩‍💻') {
         let languages = ['JavaScript', 'HTML5', 'CSS3', 'SCSS', 'PHP', 'C++', 'Java'];
 
         let frameworks = ['React', 'Vue', 'Node', 'Express', 'Bootstrap', 'jQuery'];
@@ -55,9 +57,9 @@ export class Tayla🙂 extends Skills {
 
         let tools = ['Git', 'GitHub', 'VS Code', 'Figma', 'Netlify', 'Notion', 
         'Adobe Photoshop', 'Adobe Illustrator', 'Postman'];
-        
+
         this.languages.map(language => writeCode(language));
-        
+
         this.frameworks.every(docsRead(framework)) 
             ? readDocs(framework) 
                 : writeCode(framework);
