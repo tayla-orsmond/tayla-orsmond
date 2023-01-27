@@ -56,7 +56,7 @@ export class Tayla🙂 extends Skills {
         let databases = ['MySQL', 'MongoDB'];
 
         let tools = ['Git', 'GitHub', 'VS Code', 'Figma', 'Netlify', 'Notion', 
-        'Adobe Photoshop', 'Adobe Illustrator', 'Postman'];
+        'Adobe Photoshop', 'Adobe Illustrator', 'Postman', 'Rive'];
 
         this.languages.map(language => writeCode(language));
 
@@ -72,8 +72,8 @@ export class Tayla🙂 extends Skills {
 
     learn('📚') {
         this.languages.push('TypeScript');
+        this.frameworks.push('Tailwind');
         this.frameworks.push('Angular');
-        this.databases.push('Firebase');
         this.tools.push(improve('Git'));
     }
 
