@@ -27,7 +27,8 @@ export class Tayla🙂 extends Skills {
         this.location = 'Pretoria, South Africa';
         this.favouriteEmoji = '🐸';
 
-        this.interests = ['Web Development', 'UI/UX Design', 'Game Development', 'Machine Learning', 'Artificial Intelligence'];
+        this.interests = ['Web Development', 'UI/UX Design', 'Game Development', 
+        'Machine Learning', 'Artificial Intelligence'];
 
         this.sayHi();
     }
@@ -48,7 +49,8 @@ export class Tayla🙂 extends Skills {
 
         let databases = ['MySQL', 'MongoDB'];
 
-        let tools = ['Git', 'GitHub', 'VS Code', 'Figma', 'Netlify', 'Notion', 'Adobe Photoshop', 'Adobe Illustrator', 'Postman'];
+        let tools = ['Git', 'GitHub', 'VS Code', 'Figma', 'Netlify', 'Notion', 
+        'Adobe Photoshop', 'Adobe Illustrator', 'Postman'];
         
         this.languages.map(language => writeCode(language));
         
