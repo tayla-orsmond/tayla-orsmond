@@ -4,7 +4,7 @@
 
 ## 🎓 I'm in my final year of [BIS Multimedia](https://www.up.ac.za/information-science/article/1821932/bis-multimedia) at the University of Pretoria, South Africa
 
-### [🌐 Portfolio](#) [📝 CV](#) [📬 Contact](#) [👩‍💻 LinkedIn](#)
+### [🌐 Portfolio](#) [📝 CV](#) [📬 Contact](#) [👩‍💻 LinkedIn](https://www.linkedin.com/in/tayla-orsmond-6087b2263/)
 
 </div>
 
